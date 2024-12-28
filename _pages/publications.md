@@ -28,8 +28,8 @@ Journals
 * Xian Yu, Xiaozhu Fang, Biqiang Mu, and Tianshi Chen, “Kernel-based Regularized Iterative Learning Control of Repetitive Linear Time-varying Systems”, Automatica, vol. 154, pp. 111047, 2023.
 * Yue Ju, Biqiang Mu, Lennart Ljung, and Tianshi Chen, “Asymptotic Theory for Regularized System Identification Part I: Empirical Bayes Hyper-parameter Estimator”, IEEE Transactions on Automatic Control, March 21, 2023.
 * Biqiang Mu, Lennart Ljung and Tianshi Chen, “When cannot regularization be used to improve the least squares estimate in the regularized system identification”, Automatica, submitted on May 27, 2022, provisionally accepted on May 20, 2023.
-* Xiaozhu Fang and Tianshi Chen, “On Kernel Design for Regularized Non-Causal System Identification”, Automatica, submitted on August 30, 2022, provisionally accepted, June 24, 2023.
-* Meng Zhang, Tianshi Chen, Biqiang Mu. A family of hyper-parameter estimators linking EB and SURE for kernel-based regularization methods. IEEE Transactions on Automatic Control, vol. 69, no. 12, pp. – , 2024.
+* Xiaozhu Fang and Tianshi Chen, “On Kernel Design for Regularized Non-Causal System Identification”, vol. 159, pp. 111335, 2024.
+* Meng Zhang, Tianshi Chen, Biqiang Mu. A family of hyper-parameter estimators linking EB and SURE for kernel-based regularization methods. IEEE Transactions on Automatic Control, vol. 69, no. 12, pp. 8674-8689, 2024.
 
 Books
 ======
