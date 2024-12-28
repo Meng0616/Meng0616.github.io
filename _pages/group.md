@@ -20,11 +20,12 @@ Current Members
 
 Alumni
 ======
-
-* Shiying Hong, Mphil student (2016-2018)
-* Ye Kuang, Mphil student (2017-2019)
-* Yiping Jiang, Mphil student (2017-2019)
+* Xian Yu, postdoc (2021-2023), now assistant proferssor at Shenzhen University
 * Yue Ju, PhD student (2017-2022), now postdoc at KTH
 * Juepeng Zhang, PhD student (2018-2024)
 * Yameng Gu, Mphil student (2021-2023), now PhD at HITSZ
+* Ye Kuang, Mphil student (2017-2019)
+* Yiping Jiang, Mphil student (2017-2019)
+* Shiying Hong, Mphil student (2016-2018)
 * Zhuohua Shen, undergraduate student (2021-2024), now Mphil at CUHK
+
