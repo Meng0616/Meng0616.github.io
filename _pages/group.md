@@ -4,7 +4,7 @@ title: "Group"
 permalink: /Group/
 author_profile: true
 redirect_from:
-  - /resume
+  - /Group
 ---
 
 {% include base_path %}
