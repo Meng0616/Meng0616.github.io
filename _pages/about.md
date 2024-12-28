@@ -34,7 +34,8 @@ Research and Teaching Awards
 
 Openings
 ======
-We are always looking for self-motivated students with solid mathematical background and research interests in system identification and its application in automatic control. 
+I am always looking for self-motivated students with solid mathematical background and research interests in system identification and its application in automatic control.
+More information can be found [here]()
 
 For more info
 ------
