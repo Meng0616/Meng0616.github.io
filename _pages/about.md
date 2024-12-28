@@ -7,23 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-I received his Ph.D. in Automation and Computer-Aided Engineering from The Chinese University of Hong Kong (CUHK) in 2008/12. From 2009/04 to 2015/12, I was working in the Division of Automatic Control, Department of Electrical Engineering, Linköping University, Linköping, Sweden, first as a Postdoc and then (from April 2011) as an Assistant Professor. I am now a Professor at the Chinese University of Hong Kong, Shenzhen (CUHK-SZ).  
+I received my Ph.D. in Automation and Computer-Aided Engineering from The Chinese University of Hong Kong (CUHK) in 2008/12. From 2009/04 to 2015/12, I was working in the Division of Automatic Control, Department of Electrical Engineering, Linköping University, Linköping, Sweden, first as a Postdoc and then (from April 2011) as an Assistant Professor. I am now a Professor at the Chinese University of Hong Kong, Shenzhen (CUHK-SZ).  
 
-My research interests include system identification, automatic control, and their applications. He has published nearly 100 peer-reviewed papers including 32 papers in IFAC Automatica and IEEE Transactions on Automatic Control, including 1 survey paper and 16 regular/full papers. I has participated in several projects in Sweden, Europe and China. As a principal investigator, the total amount of research grants I has received is 10.0 M CNY + 3.6M SEK.
+My research interests include system identification, automatic control, and their applications. I have published nearly 100 peer-reviewed papers including 32 papers in IFAC Automatica and IEEE Transactions on Automatic Control, including 1 survey paper and 16 regular/full papers. I has participated in several projects in Sweden, Europe and China. As a principal investigator, the total amount of research grants I has received is 10.0 M CNY + 3.6M SEK.
 
 
 
 Service
 ======
 * Associate Editor, IFAC Automatica (2017/01-present),
-
 * Associate Editor, IEEE Transactions on Automatic Control (2023/10-2026/12),
-
 * Associate Editor, System & Control Letters (2017/01-2020/12),
-
 * Associate Editor, IEEE CSS Conference Editorial Board (2016/07-2019/08),
   
-Research and Teaching Awards
+Awards and Honor 
 ======
 * the Oversea High-Level Youth Talents Award of China, 2015,
 * the Presidential Research Fellow Award of CUHK-SZ, 2020,
