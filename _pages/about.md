@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Tianshi Chen received his Ph.D. in Automation and Computer-Aided Engineering from The Chinese University of Hong Kong (CUHK) in 2008/12. From 2009/04 to 2015/12, he was working in the Division of Automatic Control, Department of Electrical Engineering, Linköping University, Linköping, Sweden, first as a Postdoc and then (from April 2011) as an Assistant Professor. He is now a Professor at the Chinese University of Hong Kong, Shenzhen (CUHK-SZ).  
+I received his Ph.D. in Automation and Computer-Aided Engineering from The Chinese University of Hong Kong (CUHK) in 2008/12. From 2009/04 to 2015/12, he was working in the Division of Automatic Control, Department of Electrical Engineering, Linköping University, Linköping, Sweden, first as a Postdoc and then (from April 2011) as an Assistant Professor. He is now a Professor at the Chinese University of Hong Kong, Shenzhen (CUHK-SZ).  
 
-His research interests include system identification, automatic control, and their applications. He has published nearly 100 peer-reviewed papers including 32 papers in IFAC Automatica and IEEE Transactions on Automatic Control, including 1 survey paper and 16 regular/full papers. He has participated in several projects in Sweden, Europe and China. As a principal investigator, the total amount of research grants he has received is 10.0 M CNY + 3.6M SEK
+My research interests include system identification, automatic control, and their applications. He has published nearly 100 peer-reviewed papers including 32 papers in IFAC Automatica and IEEE Transactions on Automatic Control, including 1 survey paper and 16 regular/full papers. He has participated in several projects in Sweden, Europe and China. As a principal investigator, the total amount of research grants he has received is 10.0 M CNY + 3.6M SEK
 
 A data-driven personal website
 ======
