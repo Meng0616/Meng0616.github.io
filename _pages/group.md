@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Group"
-permalink: /group/
+permalink: /Group/
 author_profile: true
 redirect_from:
   - /resume
