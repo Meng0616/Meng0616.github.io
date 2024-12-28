@@ -15,22 +15,15 @@ Education
 * M.S. in Harbin Institute of Technology
 * B.S. in Harbin Institute of Technology
 
-Work experience
+Service
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Associate Editor, IFAC Automatica (2017/01-present)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Associate Editor, IEEE Transactions on Automatic Control (2023/10-2026/12)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Associate Editor, System & Control Letters (2017/01-2020/12)
+
+* Associate Editor, IEEE CSS Conference Editorial Board (2016/07-2019/08)
   
 Skills
 ======
