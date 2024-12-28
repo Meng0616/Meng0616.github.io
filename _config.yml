@@ -24,7 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Tianshi Chen"
   pronouns         : # example: "she/her"  
-  bio              : "Professor \\ School of Data Science \\ The Chinese University of Hong Kong, Shenzhen"
+  bio              : "Professor
+                      School of Data Science
+                      The Chinese University of Hong Kong, Shenzhen"
   location         : "Shenzhen, China"
   employer         : "The Chinese University of Hong Kong, Shenzhen"
   uri              : # URL
