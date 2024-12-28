@@ -26,7 +26,7 @@ Journals
 * Junpeng Zhang, Yue Ju, Biqiang Mu, Renxin Zhong, and **Tianshi Chen**, “An Efficient Implementation for Spatial-Temporal Gaussian Process Regression and Its Applications”, Automatica, vol. 147, pp. 110679, 2022.
 * **Tianshi Chen** and Martin S. Andersen, “On Semiseparable Kernels and Efficient Implementation of Regularized System Identification and Function Estimation”, Automatica, vol. 132, pp. 109682, 2021.
 * Martin Lindfors, and **Tianshi Chen**. “Regularized System Identification in the Presence of Outliers: a Variational EM Approach”, Automatica, vol. 121, pp. 109152, 2020.
-* Lennart Ljung, **Tianshi Chen**n, and Biqiang Mu. “A Shift in Paradigm for System Identification”, International Journal of Control, vol. 93(2), pp. 173–180, 2020.
+* Lennart Ljung, **Tianshi Chen**, and Biqiang Mu. “A Shift in Paradigm for System Identification”, International Journal of Control, vol. 93(2), pp. 173–180, 2020.
 * **Tianshi Chen**. “Continuous-time DC kernel — a stable generalized first-order spline kernel,” IEEE Transactions on Automatic Control, vol. 63. no. 12, pp. 4442–4447, 2018.
 * Biqiang Mu, and **Tianshi Chen**. “On input design for regularized LTI system identification: Power-constrained inputs,” Automatica, vol. 97, pp. 327–338, 2018.
 * **Tianshi Chen** and Gianluigi Pillonetto. “On the stability of reproducing kernel Hilbert spaces of discrete-time impulse responses,” Automatica, vol. 95, pp. 529–533, 2018.
